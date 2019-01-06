@@ -1,5 +1,5 @@
 {
-    "name": "angrychimp/php-dkim",
+    "name": "pimlie/php-dkim",
     "description": "Finally, a PHP5 class for not just signing, but _verifying_ DKIM signatures.",
     "license": "MIT",
     "version": "0.2.1",
